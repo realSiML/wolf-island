@@ -40,3 +40,4 @@ F:\ООП\wolf-island\obj\Debug\net7.0\refint\wolf-island.dll
 F:\ООП\wolf-island\obj\Debug\net7.0\wolf-island.pdb
 F:\ООП\wolf-island\obj\Debug\net7.0\wolf-island.genruntimeconfig.cache
 F:\ООП\wolf-island\obj\Debug\net7.0\ref\wolf-island.dll
+F:\ООП\wolf-island\bin\Debug\net7.0\Content\Font.xnb

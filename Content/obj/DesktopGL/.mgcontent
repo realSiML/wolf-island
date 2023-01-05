@@ -6,9 +6,11 @@
   <SourceFiles>
     <File>F:/ООП/wolf-island/Content/Bunny.png</File>
     <File>F:/ООП/wolf-island/Content/Cell.png</File>
+    <File>F:/ООП/wolf-island/Content/Font.png</File>
     <File>F:/ООП/wolf-island/Content/Wolf.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

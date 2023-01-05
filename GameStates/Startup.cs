@@ -14,6 +14,7 @@ public sealed class Startup : GameState
     public Startup(GraphicsManager graphics, GameStateManager gsm)
     {
         Graphics = graphics;
+        Graphics.SetFullscreen(true);
         GSM = gsm;
     }
 

@@ -17,15 +17,15 @@ var gsmBuilder = new GameStateManagerBuilder();
 
 gsmBuilder
     .SetWindowSize(1920, 1080, 1)
-    .SetInitialGameState<Startup>()
+    .SetInitialGameState<Startup>().UseFixedTimeStep()
 
     // TODO: set a better window title
-    .SetWindowTitle("wolf_island")
+    .SetWindowTitle("Волчий остров")
 
     // TODO: add any resources needed (refer to PlayPlayMini documentation for more info)
     .AddAssets(new IAsset[]
     {
-        // new FontMeta(...)
+        new FontMeta("Font","Font",11,23),
         // new PictureMeta(...)
         new SpriteSheetMeta("Wolf","Wolf",48,32),
         new SpriteSheetMeta("Bunny","Bunny",32,32),

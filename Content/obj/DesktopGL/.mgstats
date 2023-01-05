@@ -1,2 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"F:/ООП/wolf-island/Content/Wolf.png","F:/ООП/wolf-island/Content/bin/DesktopGL/Wolf.xnb","TextureProcessor","Texture2DContent",25152,12373,0,1800699
+"F:/ООП/wolf-island/Content/Font.png","F:/ООП/wolf-island/Content/bin/DesktopGL/Font.xnb","TextureProcessor","Texture2DContent",4334,131157,0,2355452
